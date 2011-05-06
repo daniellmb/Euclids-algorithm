@@ -1,1 +1,1 @@
-40 byte recursive-based version of the Euclidean algorithm
+40 byte recursive-based version of the Euclidean algorithm. Euclid's algorithm is used to find the greatest common divisor of 2 numbers (the largest number that divides both of them without leaving a remainder). The Euclidean algorithm is based on the principle that the greatest common divisor of two numbers does not change if the smaller number is subtracted from the larger number.
