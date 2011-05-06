@@ -1,0 +1,3 @@
+40 byte recursive-based version of the Euclidean algorithm. Euclid's algorithm is used to find the greatest common divisor of 2 numbers (the largest number that divides both of them without leaving a remainder). The Euclidean algorithm is based on the principle that the greatest common divisor of two numbers does not change if the smaller number is subtracted from the larger number.
+
+For illustration, the gcd(1071, 462) is calculated from the equivalent gcd(462, 1071 % 462) = gcd(462, 147). The latter GCD is calculated from the gcd(147, 462 % 147) = gcd(147, 21), which in turn is calculated from the gcd(21, 147 % 21) = gcd(21, 0) = 21.
